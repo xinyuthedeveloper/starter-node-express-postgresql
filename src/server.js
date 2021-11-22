@@ -1,7 +1,6 @@
 const express = require('express')
 
 const app = require("./app");
-const router = express.Router();
 const PORT = process.env.PORT || 5000;
 
 
